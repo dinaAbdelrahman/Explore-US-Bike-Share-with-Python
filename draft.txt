@@ -1,0 +1,20 @@
+City: NYC
+OrderedDict([('tripduration', '839'), ('starttime', '1/1/2016 00:09:55'), ('stoptime', '1/1/2016 00:23:54'), ('start station id', '532'), ('start station name', 'S 5 Pl & S 4 St'), ('start station latitude', '40.710451'), ('start station longitude', '-73.960876'), ('end station id', '401'), ('end station name', 'Allen St & Rivington St'), ('end station latitude', '40.72019576'), ('end station longitude', '-73.98997825'), ('bikeid', '17109'), ('usertype', 'Customer'), ('birth year', ''), ('gender', '0')])
+
+City: Chicago
+OrderedDict([('trip_id', '9080545'), ('starttime', '3/31/2016 23:30'), ('stoptime', '3/31/2016 23:46'), ('bikeid', '2295'), ('tripduration', '926'), ('from_station_id', '156'), ('from_station_name', 'Clark St & Wellington Ave'), ('to_station_id', '166'), ('to_station_name', 'Ashland Ave & Wrightwood Ave'), ('usertype', 'Subscriber'), ('gender', 'Male'), ('birthyear', '1990')])
+
+City: Washington
+OrderedDict([('Duration (ms)', '427387'), ('Start date', '3/31/2016 22:57'), ('End date', '3/31/2016 23:04'), ('Start station number', '31602'), ('Start station', 'Park Rd & Holmead Pl NW'), ('End station number', '31207'), ('End station', 'Georgia Ave and Fairmont St NW'), ('Bike number', 'W20842'), ('Member Type', 'Registered')])
+
+out_colnames = ['duration', 'month', 'hour', 'day_of_week', 'user_type']
+
+
+201/ 2015/ 87/ 609385
+
+
+FATEMEH MEHDI AREFI
+
+216 2018 87 574136
+
+420576
